@@ -7,8 +7,8 @@
  */
 public class Test {
     public static void main(String[] args) {
-        int a = 2;
-        String b = "2";
+        int a = 3;
+        String b = "3";
         System.out.println(a);
         System.out.println(b);
     }
